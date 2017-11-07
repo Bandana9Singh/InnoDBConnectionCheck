@@ -1,5 +1,5 @@
 Description:
-A menudriven program to check the InnoDb engine features in MySQL
+A menudriven program in Java to check the InnoDb engine features in MySQL
 
 Development Tools used: 
 1. Eclipse IDE
